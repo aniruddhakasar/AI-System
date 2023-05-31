@@ -1,0 +1,11 @@
+speech_recognition 
+cv2
+pyttsx3
+import rospy  # ROS library
+import pyrobot  # PyRobot library
+import openravepy  # OpenRAVE library
+import pygame  # Pygame library
+import numpy as np  # NumPy library
+from scipy import optimize  # SciPy library
+
+# Your code goes here...
